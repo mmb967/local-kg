@@ -30,7 +30,7 @@ Streamlit, NetworkX, pyvis, Ollama, PyPDF2, python-dotenv.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/local-kg.git
+git clone https://github.com/mmb967/local-kg.git
 cd local-kg
 
 # Pull the LLM model
